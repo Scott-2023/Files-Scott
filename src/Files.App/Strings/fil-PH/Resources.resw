@@ -2222,7 +2222,7 @@
     <value>Update</value>
   </data>
   <data name="Home" xml:space="preserve">
-    <value>Home</value>
+    <value>MyHome</value>
   </data>
   <data name="TabViewVerticalNewTab.Text" xml:space="preserve">
     <value>Bagong tab</value>
